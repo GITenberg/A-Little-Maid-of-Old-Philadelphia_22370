@@ -1,0 +1,32 @@
+_repo: A-Little-Maid-of-Old-Philadelphia_22370
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cooke, Edna
+    gutenberg_agent_id: '37001'
+    url: http://www.gutenberg.org/2009/agents/37001
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, Alice Turner
+    alias: Turner, Alice
+    gutenberg_agent_id: '1841'
+    url: http://www.gutenberg.org/2009/agents/1841
+description: Two girls who keep their ears open and make good use of their knowledge
+  play a part in the story of the Revolutionary War in Pennsylvania in 1778.
+gutenberg_issued: '2007-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Pennsylvania -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcc 'PZ'
+title: A Little Maid of Old Philadelphia
+url: http://www.gutenberg.org/ebooks/22370
